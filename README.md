@@ -1,4 +1,4 @@
-<h2>Teste de site</h2>
-<p>Projeto teste de site onde coloquei em prática estudos de HTML, CSS e JavaScript</p> 
+<h2>Página de login</h2>
+<p>Projeto onde aprendi a fazer Página de Login</p> 
 
 https://renanfls.github.io/Pagina_de_login/
